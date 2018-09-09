@@ -1,0 +1,27 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "my-text-box-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/myTextBox/MyTextBoxWebPart.js",
+          "manifest": "./src/webparts/myTextBox/MyTextBoxWebPart.manifest.json"
+        }
+      ]
+    },
+    "my-card-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/myCard/MyCardWebPart.js",
+          "manifest": "./src/webparts/myCard/MyCardWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "MyTextBoxWebPartStrings": "lib/webparts/myTextBox/loc/{locale}.js",
+    "MyCardWebPartStrings": "lib/webparts/myCard/loc/{locale}.js"
+  }
+}

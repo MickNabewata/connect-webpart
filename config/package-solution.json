@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "connect-webpart-client-side-solution",
+    "id": "3a13b972-4fe0-49bd-8e84-a3d6e37c543d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/connect-webpart.sppkg"
+  }
+}
