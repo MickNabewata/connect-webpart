@@ -15,10 +15,10 @@ if released, we can use dynamic data capability instead.
 
 ## screenshot
 <figure>
-<img alt="connectedWebparts" src="https://github.com/MickNabewata/connect-webpart/wiki/images/connectedTwoWebparts.jpg" />
+<img alt="connectedWebparts" src="https://github.com/MickNabewata/connect-webpart/wiki/images/connectedTwoWebparts.jpg" style="max-width:50%;" />
 <figcaption>Connected two web parts</figcaption>
 </figure>
 <figure>
-<img alt="propertypane" src="https://github.com/MickNabewata/connect-webpart/wiki/images/propetypane.jpg" />
+<img alt="propertypane" src="https://github.com/MickNabewata/connect-webpart/wiki/images/propetypane.jpg" style="max-width:50%;" />
 <figcaption>Propety pane to choice connect target</figcaption>
 </figure>
