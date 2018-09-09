@@ -1,5 +1,5 @@
 # connect-webpart
-SPFx sample code that connect a webpart to anothor webpart
+SPFx sample code that connect a webpart to another webpart
 
 ## purpose
 Using <a href="https://docs.microsoft.com/en-us/sharepoint/dev/spfx/dynamic-data" target="_blank">dynamic data</a>, we can connect two or more sharepoint components.
