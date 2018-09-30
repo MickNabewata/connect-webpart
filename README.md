@@ -1,9 +1,9 @@
-# 英語が苦手な方へ
-日本語の情報は以下にあります。  
-<a href="https://www.micknabewata.com/entry/sharepoint/spfx/connect-webpart">SharePoint FrameworkでWebパーツ同士を結合するやり方</a>
-
 # connect-webpart
 SPFx sample code that connect a webpart to another webpart
+
+## 英語が苦手な方へ
+日本語の情報は以下にあります。  
+<a href="https://www.micknabewata.com/entry/sharepoint/spfx/connect-webpart">SharePoint FrameworkでWebパーツ同士を結合するやり方</a>
 
 ## purpose
 Using <a href="https://docs.microsoft.com/en-us/sharepoint/dev/spfx/dynamic-data" target="_blank">dynamic data</a>, we can connect two or more sharepoint components.
